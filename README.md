@@ -1,3 +1,6 @@
+
+Ejecuta el archivo main y sigue las instrucciones en pantalla.
+
 ```mermaid
 classDiagram
 characters_properties o-- characters_stats
